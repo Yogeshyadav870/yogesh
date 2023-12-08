@@ -1,0 +1,123 @@
+.logo{
+    font-size: 50px;
+    text-align: center;
+}
+.list{
+    display: flex;
+    justify-content: center;
+}
+
+.list li{
+    margin: 0 10px;
+}
+
+.div1{
+    border: solid 5px rgb(8, 9, 8);
+    
+    display: inline-block;
+    margin-left: 150px;
+}
+.div2{
+    border: solid 5px rgba(0, 0, 0, 0.481);
+    display: inline-block;
+    margin-left: 600px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.contact-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+header {
+    /background-color: black;/ 
+    padding: 2px 0; 
+  }
+  
+  nav {
+    background-color: rgb(215, 139, 139); 
+  }
+
+.services{
+    background-image: url();
+}
+
+.container{
+    background-color: antiquewhite;
+}
+
+.one{
+    display: inline-block;
+}
+.para{
+    display: inline-block;
+    width: 800px;
+}
+.para2{
+    display: inline-block;
+    width: 800px;
+}
+.para3{
+    display: inline-block;
+    width: 800px;}
+    .para4{
+        display: inline-block;
+        width: 800px;}
+.indi{
+    border: solid 5px black;
+}
+.container{
+    text-align: center;
+}
+.service-card{
+    text-align: center;
+}
+.team{
+    display: block;
+}
+.Boro{
+    border: solid 5px black;
+}
+.list2{
+    background-color: pink;
+}
+.mainheading{
+    background-image: url(17heading.jpg.jpeg);
+}
