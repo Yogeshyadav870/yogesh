@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mental Health Counseling Website</title>
+
+    <link rel="stylesheet" href="style1.css">
+    <style>
+        
+
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <section class="mainheading">
+                <Pre>
+                </Pre>
+                <p class="logo">Mental Health Counseling</p>
+                <pre>
+                </pre>
+                </section>
+        
+                <ul class="list">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#cr">Services</a></li>
+                    <li><a href="#yogesh">Contact</a></li>
+                </ul>
+        
+            
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>Seeking Help for Mental Health?</h1>
+            <p>
+            You're not alone. We can help you find the support you need to improve your mental well-being.
+            Welcome to our mental health space, a sanctuary for those seeking support, guidance, and understanding.
+            In a world where mental well-being is paramount, we provide a safe haven for individuals navigating the complexities of their emotional landscape. 
+            Whether you're exploring coping mechanisms, seeking advice on self-care practices, or simply yearning for a community that understands, you're not alone.
+            Here, we aim to foster a nurturing environment where conversations flourish, stigma dissipates, and every step toward mental wellness is celebrated. 
+            Embrace this space as your own—a place where healing begins and journeys towards a healthier mind thrive.</b>
+
+            </p>
+            <a href="#yogesh" >Get Started</a>
+        </div>
+    </section>
+
+    <section class="services" id="cr">
+        <div class="container">
+            <h2>Our Services</h2>
+            <p>
+                We offer a wide range of mental health counseling services to help you address a variety of concerns.
+                Our comprehensive range of therapeutic services caters to various aspects of mental health and relationships. 
+                Our individual therapy sessions provide personalized support, guiding you through personal challenges and fostering growth in a safe, confidential space. 
+                Our family therapy sessions aim to strengthen familial bonds, enhancing communication and understanding among members. 
+                For couples navigating the complexities of relationships, our couple therapy offers a supportive environment to foster connection and resolve conflicts constructively. 
+                Additionally, our group therapy sessions provide a community of understanding and shared experiences, offering a platform for mutual support and growth. 
+                Whatever your needs may be—individual growth, familial harmony, relational enhancement, or communal support—our diverse array of services is here to accompany you on your journey toward holistic well-being.
+            </p>
+            <div class="service-cards">
+                <div class="one">
+        
+                    <h3>Individual Therapy</h3>
+                    <p class="para">
+                        One-on-one therapy sessions to address your specific needs and goals.
+                        Our individual therapy services offer a personalized journey toward mental well-being. 
+                        Our experienced and compassionate therapists provide a confidential space where your story, emotions, and struggles are heard without judgment. 
+                        Through a collaborative approach, we tailor our sessions to address your unique needs, guiding you through challenges, fostering resilience, and empowering you to discover your inner strengths. 
+                        Whether you're navigating anxiety, depression, life transitions, or seeking personal growth, our therapy sessions are a dedicated sanctuary, offering tools and insights to navigate life's complexities with confidence and clarity. 
+                        Take the first step towards healing and self-discovery in a supportive environment crafted just for you.
+                    </p>
+                    <img class="indi" src="indi.jpeg" alt="">
+                </div>
+                <div class="service-card">
+                    
+                    <h3>Group Therapy</h3>
+                   
+                    <p class="para2">
+                        Participate in supportive group sessions to connect with others and learn from shared experiences.
+                        Join our supportive community through our group therapy sessions, where healing and growth flourish in a shared space.
+                        Our group sessions offer a supportive environment where individuals come together to explore common challenges, share experiences, and cultivate understanding.
+                        Led by experienced facilitators, these sessions provide a platform for mutual support, empathy, and learning from one another’s perspectives.
+                        Whether you seek to navigate anxiety, process grief, improve social skills, or simply find solidarity in a shared journey, our group therapy offers a nurturing space where you can gain insights, develop coping strategies, and foster connections that transcend individual experiences.
+                        Together, we embark on a collective path toward healing, resilience, and personal empowerment.
+
+
+                    </p>
+                    <img class="Boro" src="Group therapy (1).jpg" alt="">
+                </div>
+                <div class="service-card">
+                    
+                    <h3>Family Therapy</h3>
+                    
+                    <p class="para3">Strengthen relationships and improve communication within your family.
+                        Our family therapy sessions provide a nurturing space where families come together to foster understanding, communication, and harmony.
+                        Led by experienced therapists, these sessions create a supportive environment where each family member's voice is heard and valued.
+                        Whether facing conflicts, transitions, or seeking to improve dynamics, our sessions aim to strengthen bonds, enhance empathy, and develop effective strategies for overcoming challenges as a unit.
+                        Through a collaborative approach, we work towards resolving conflicts, improving communication, and fostering a deeper understanding of each other's perspectives.
+                        Our goal is to help your family navigate through difficulties, celebrate strengths, and create a resilient, harmonious environment where every member feels heard, understood, and supported.
+                    </p>
+                    <img class="Boro" src="family-therapy.jpg" alt="">
+                </div>
+                <div class="service-card">
+                    
+                    <h3>Couples Therapy</h3>
+                    <p class="para4">Improve communication, resolve conflicts, and enhance your relationship.
+                        Our couple therapy sessions provide a dedicated space for partners to strengthen their relationship, fostering understanding, communication, and deeper connection.
+                        Guided by experienced therapists, these sessions offer a supportive and non-judgmental environment where couples explore challenges, resolve conflicts, and rediscover shared goals.
+                        Whether navigating through rough patches, seeking to improve communication, reigniting intimacy, or preparing for a significant life transition, our couple therapy sessions are tailored to your unique dynamics and aspirations.
+                        Together, we work to rebuild trust, enhance mutual respect, and equip you with the tools necessary to nurture a resilient and fulfilling partnership.
+                        Embark on a journey of growth, healing, and renewed closeness as you navigate life's complexities hand in hand.
+                        
+        
+                    </p>
+                    <img class="Boro" src="couple therapy.jpg" alt="Couples Therapy">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="about-us" id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>
+                At Mental Health Counseling, we believe that everyone deserves access to the support they need to thrive. We are a team of dedicated and experienced mental health counselors who are passionate about helping people achieve their full potential. We offer a variety of individual, couples, and group therapy services, as well as a variety of resources to support your mental health journey. We are committed to providing high-quality, compassionate, and affordable care that is tailored to your individual needs.
+
+We understand that seeking help for your mental health can be a daunting task. That's why we strive to create a safe, supportive, and welcoming environment where you feel comfortable sharing your thoughts and feelings. We believe that you are the expert on your own life, and we will work with you to develop a treatment plan that meets your unique goals.
+            </p>
+        </section>
+        <section class="Doctor">
+            <h1>Our Team</h1>
+            <div class="div1">
+
+                    <img src="try.jpg" alt="Therapist 1" width="300px" >
+                    <h2>Jane Doe</h2>
+                    <p>Licensed Mental Health Counselor
+            
+                </p>
+            </div>
+                <div class="div2">
+                
+                
+                    <img src="theripist2.jpg" alt="Therapist 2" width="300px"  height="200px" >
+                    
+                    <h2>John Smith</h2>
+                    <p>Licensed Mental Health Counselor
+                    </p>
+                    
+                </div>
+    
+
+
+    </section>
+
+    
+    <div class="contact-container" id="yogesh">
+        <h1>Contact Us</h1>
+        <form>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="phone">Phone:</label>
+            <input type="tel" id="phone" name="phone" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="address">Address:</label>
+            <textarea id="address" name="address" required></textarea>
+
+            <button type="submit">Submit</button>
+        </form>
+</body>
+</html>
